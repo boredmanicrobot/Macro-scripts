@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/local/bin/bash
 # Part of Macro-scripts package (a complete Open Source workflow for processing macro focus stacking photographs)
 # Written by Sergey Mashchenko
 
