@@ -8,3 +8,5 @@ Consult the included README.txt file for installation instructions.
 Detailed user guide can be found here:
 
 http://pulsar124.wikia.com/wiki/Open_Source_workflow_for_macro_focus_stacking
+
+boredmanicrobot: I have edited/will edit the shell scripts to be suitable for deployment on a FreeBSD system.
